@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhotoSlider</string>
+    <string name="prev_text"><![CDATA[< ПРЕД]]></string>
+    <string name="next_text"><![CDATA[СЛЕД >]]></string>
+</resources>
